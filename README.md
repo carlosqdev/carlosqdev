@@ -4,7 +4,7 @@
 
 ### About me
 
-I am a systems engineer with over 2 years of experience in technologies such as ReactJS, JavaScript, TypeScript, HTML, CSS, NodeJS, Git, and GitHub. I am passionate about problem-solving and creating efficient and elegant solutions. In my free time, I enjoy exploring new technologies and learning about different areas of programming. 
+Systems engineer with over 2 years of experience in ReactJS, JavaScript, TypeScript, HTML, CSS, NodeJS, Git, and GitHub. In my free time, I enjoy exploring new technologies and learning about different areas of programming. 
 
 Thank you for visiting my profile!
 
