@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Quintero</h1>
+<h1 align="center">Carlos Quintero</h1>
 <h3 align="center">Systems engineer with over 4 years of experience. In my free time, I enjoy exploring new technologies and learning about different areas of programming.</h3>
 
 - 🔭 I’m currently working on **GoDigital**
